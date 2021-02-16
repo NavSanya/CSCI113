@@ -1,1 +1,2 @@
-# CSCI113
+# CSCI113 Introduction to Computer Organization
+Fundamental issues of computer design at register-transfer level. Logical design of basic combinational and sequential modules. Organization and design of major functional blocks: ALU, CPU, memory, cache, input/output, hard-wired and microprogrammed control. Simulation of computer organization. INtroduction to high performance superscalar computer organization. 
